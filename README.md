@@ -3,6 +3,10 @@
 Pour ce mini projet, vous devrez réaliser une calculatrice très basique.  
 Ce projet ne demande aucune intégration.
 
+## Langages utilisés
+
+Seul le JavaScript est présent
+
 ## Fonctionnement
 
 À l'arrivée sur la page du projet, l'utilisateur devra renseigner grâce à **trois boites** de dialogues différentes : les opérandes et l'opérateur.
